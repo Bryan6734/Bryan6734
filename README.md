@@ -1,6 +1,6 @@
 ## Hi! I'm Bryan Sukidi.
 
-I'm a first-year undergraduate at UNC Chapel Hill studying Computer Science, Statistics and Philosophy under a Morehead-Cain scholarship with a focus on AI safety.
+i like building stuff
 
 <!--
 **Bryan6734/Bryan6734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
