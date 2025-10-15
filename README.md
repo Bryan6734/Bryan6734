@@ -1,6 +1,10 @@
 ## Hi! I'm Bryan Sukidi.
 
-i like building stuff
+I'm a student on leave from UNC Chapel Hill, where I was studying Computer Science and Philosophy on a Morehead-Cain scholarship.
+
+I love our species, and I care deeply about making sure that humanity one day has the chance to flourish. I'm mainly interested in reducing catastrophic risks from AI and solving cool problems. I also started a blog.
+
+In my free time, I enjoy rock climbing, playing guitar, and running multiple Claude Code instances in parallel. Please reach out if you'd like to chat. I love making new friends!
 
 <!--
 **Bryan6734/Bryan6734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
